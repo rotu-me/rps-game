@@ -1,2 +1,4 @@
 # rps-game
-Game for the odin project
+Game for the odin projecT
+Requirement
+. 
